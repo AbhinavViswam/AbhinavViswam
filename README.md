@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbhinavViswam
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning latest web developing languages
+- 👋 Hi, I’m @AbhinavViswam.
+- 👀 I’m interested in python programming with frameworks.
+- 🌱 I’m currently learning latest web developing languages.
 - 
 
 <!---
